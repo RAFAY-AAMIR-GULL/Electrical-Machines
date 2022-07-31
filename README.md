@@ -8,4 +8,4 @@
 AND
 
 
-** Assignments and their Solutions **
+**Assignments and their Solutions**
